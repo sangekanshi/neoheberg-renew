@@ -1,0 +1,4 @@
+.bot-token
+.chat-id
+*.log
+__pycache__/
